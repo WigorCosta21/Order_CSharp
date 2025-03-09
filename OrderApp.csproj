@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Entities\OrderItem.cs~RF51cc9dba.TMP" />
+  </ItemGroup>
+
 </Project>
